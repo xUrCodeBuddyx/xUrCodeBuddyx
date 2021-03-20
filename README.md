@@ -5,7 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sami-Hedhli&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-Hedhli&layout=compact)]
 - 🔭 I’m currently working on an end of studies project
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with Electron
