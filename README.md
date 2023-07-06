@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Sami-Hedhli)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sami-Hedhli&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xUrCodeBuddyx&count_private=true&show_icons=true)
 
 - 🌱 I’m currently learning Svelte
 - 💬 Ask me about JS
