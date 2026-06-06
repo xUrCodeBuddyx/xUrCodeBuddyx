@@ -1,28 +1,126 @@
-<h1 align="center">Hi 👋, I'm Sami</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Sami Hedhli</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xUrCodeBuddyx&label=Profile%20views&color=0e75b6&style=flat" alt="xUrCodeBuddyx" />
+<p align="center">
+  <strong>Full-stack engineer with backend depth and product sense.</strong>
 </p>
 
-<span align="right">
-  <img width="256" width="256"
-      align="right" src="https://api.daily.dev/devcards/8acca172624341ef9862ae4c99b8227a.png?r=13i" alt="Sami's Dev Card"/>
-</span>
-
-- 🌱 I’m currently preparing for: **Mongo DB Certification**
-- 💬 Ask me about: **JavaScript, TypeScript, Wallets**
-
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </a>   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats-lovat-psi.vercel.app/?user=xUrCodeBuddyx&count_private=true&show_icons=true&test" alt="xUrCodeBuddyx's GitHub Streak" />
+<p align="center">
+  I build reliable product backends, APIs, integrations, and practical user experiences for growing web platforms.
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-six-red-51.vercel.app/api/top-langs?username=xUrCodeBuddyx&count_private=true&show_icons=true&locale=en&layout=compact" alt="xUrCodeBuddyx's Top Languages" />
+<p align="center">
+  <a href="https://samihedhli.com">Portfolio</a> ·
+  <a href="https://samihedhli.com/case-studies">Case Studies</a> ·
+  <a href="https://samihedhli.com/product-labs">Product Labs</a> ·
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a> ·
+  <a href="mailto:contact@samihedhli.com">Email</a>
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats-six-red-51.vercel.app/api?username=xUrCodeBuddyx&count_private=true&show_icons=true&locale=en" alt="xUrCodeBuddyx" /></p>
+---
 
+## What I work on
 
+- **Product backends:** Laravel, PHP, APIs, business logic, data models, and product workflows.
+- **AI & integrations:** AI/chat flows, third-party APIs, service orchestration, and practical product logic.
+- **Payments & workflows:** Stripe integrations, checkout/payment flows, and internal tools.
+- **Full-stack product work:** React/Next.js, Astro, Sanity, Appwrite, Tailwind, and UX-focused interfaces.
+- **Deployment:** Docker, Coolify, VPS hosting, Cloudflare, and GitHub Actions.
+
+---
+
+## Featured work
+
+### [Same](https://same.appwrite.network/)
+A social product for anonymous emotional connection and real feelings.
+
+What it shows:
+- Product concept and visual direction
+- Social interaction flows
+- Appwrite integration
+- Frontend polish
+- Full-stack product execution
+
+---
+
+### [Orbit](https://orbit.appwrite.network/)
+A relationship-management product for reminders, emotional context, and contact history.
+
+What it shows:
+- Product UX thinking
+- Reminder/contact workflows
+- Appwrite-backed product logic
+- Visual product identity
+- Full-stack implementation
+
+---
+
+### [Portfolio](https://samihedhli.com/)
+My personal portfolio built with Astro and Sanity.
+
+What it shows:
+- Static performance
+- SEO-focused structure
+- Case studies
+- Product labs
+- Archive projects
+- Content-driven personal branding
+
+---
+
+## Tech I use
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-111827?style=for-the-badge&logo=astro&logoColor=BC52EE" />
+  <img src="https://img.shields.io/badge/Sanity-111827?style=for-the-badge&logo=sanity&logoColor=F03E2F" />
+  <img src="https://img.shields.io/badge/Appwrite-111827?style=for-the-badge&logo=appwrite&logoColor=FD366E" />
+  <img src="https://img.shields.io/badge/Stripe-111827?style=for-the-badge&logo=stripe&logoColor=635BFF" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+</p>
+
+---
+
+## How I think about work
+
+I like building products where the hard part is not only the screen, but the logic behind it.
+
+- Understand the workflow before designing endpoints.
+- Keep backend logic readable and maintainable.
+- Add AI/payment integrations with real product behavior around them.
+- Care about UX, even when the work is mostly backend.
+- Ship useful software that another developer can understand later.
+
+---
+
+## Writing
+
+I write about backend-heavy product work, Laravel, integrations, AI features, internal tools, and product engineering.
+
+- [How I approach maintainable Laravel backends](https://samihedhli.com/articles/maintainable-laravel-backends/)
+- [Adding AI features without turning the product into a demo](https://samihedhli.com/articles/adding-ai-features-without-demo/)
+- [Lessons from building internal workflow tools](https://samihedhli.com/articles/lessons-building-internal-workflow-tools/)
+- [Stripe payment flows in product backends](https://samihedhli.com/articles/stripe-payment-flows-product-backends/)
+
+---
+
+## GitHub activity
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xUrCodeBuddyx&show_icons=true&theme=github_dark&hide_border=true" alt="Sami's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xUrCodeBuddyx&layout=compact&theme=github_dark&hide_border=true" alt="Sami's top languages" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://samihedhli.com">samihedhli.com</a> ·
+  <a href="mailto:contact@samihedhli.com">contact@samihedhli.com</a>
+</p>
