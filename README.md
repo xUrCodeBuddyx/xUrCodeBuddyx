@@ -18,6 +18,8 @@
 
 ---
 
+<img align="right" width="260" src="https://api.daily.dev/devcards/8acca172624341ef9862ae4c99b8227a.png?r=13i" alt="Sami's daily.dev card"/>
+
 ## What I work on
 
 - **Product backends:** Laravel, PHP, APIs, business logic, data models, and product workflows.
@@ -26,6 +28,8 @@
 - **Full-stack product work:** React/Next.js, Astro, Sanity, Appwrite, Tailwind, and UX-focused interfaces.
 - **Deployment:** Docker, Coolify, VPS hosting, Cloudflare, and GitHub Actions.
 
+<br clear="right"/>
+
 ---
 
 ## Featured work
@@ -33,7 +37,7 @@
 ### [Same](https://same.appwrite.network/)
 A social product for anonymous emotional connection and real feelings.
 
-What it shows:
+**What it shows:**
 - Product concept and visual direction
 - Social interaction flows
 - Appwrite integration
@@ -45,7 +49,7 @@ What it shows:
 ### [Orbit](https://orbit.appwrite.network/)
 A relationship-management product for reminders, emotional context, and contact history.
 
-What it shows:
+**What it shows:**
 - Product UX thinking
 - Reminder/contact workflows
 - Appwrite-backed product logic
@@ -57,7 +61,7 @@ What it shows:
 ### [Portfolio](https://samihedhli.com/)
 My personal portfolio built with Astro and Sanity.
 
-What it shows:
+**What it shows:**
 - Static performance
 - SEO-focused structure
 - Case studies
@@ -108,15 +112,6 @@ I write about backend-heavy product work, Laravel, integrations, AI features, in
 - [Adding AI features without turning the product into a demo](https://samihedhli.com/articles/adding-ai-features-without-demo/)
 - [Lessons from building internal workflow tools](https://samihedhli.com/articles/lessons-building-internal-workflow-tools/)
 - [Stripe payment flows in product backends](https://samihedhli.com/articles/stripe-payment-flows-product-backends/)
-
----
-
-## GitHub activity
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xUrCodeBuddyx&show_icons=true&theme=github_dark&hide_border=true" alt="Sami's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xUrCodeBuddyx&layout=compact&theme=github_dark&hide_border=true" alt="Sami's top languages" />
-</p>
 
 ---
 
